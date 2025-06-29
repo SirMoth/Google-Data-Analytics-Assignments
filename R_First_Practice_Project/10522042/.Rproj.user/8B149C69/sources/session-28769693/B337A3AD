@@ -1,27 +1,27 @@
 {
-    "id": "F678056B",
-    "path": "/cloud/project/practice_code.R",
-    "project_path": "practice_code.R",
+    "id": "B337A3AD",
+    "path": "/cloud/project/practice_ggplot2.R",
+    "project_path": "practice_ggplot2.R",
     "type": "r_source",
-    "hash": "3775402595",
+    "hash": "2842101908",
     "contents": "",
     "dirty": false,
-    "created": 1750782550363.0,
+    "created": 1751215743865.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "23,0",
-        "scrollLine": "3"
+        "cursorPosition": "94,0",
+        "scrollLine": "74"
     },
     "folds": "",
-    "lastKnownWriteTime": 1750783117,
+    "lastKnownWriteTime": 1751223825,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1750783117168,
+    "last_content_update": 1751223825948,
     "read_only": false,
     "read_only_alternatives": []
 }
