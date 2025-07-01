@@ -1,0 +1,6 @@
+"0","ggplot(data = penguins) +"
+"0","  geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, color = species))"
+"2","Warning:"
+"2"," [38;5;232mRemoved 2 rows containing missing values or values
+outside the scale range (`geom_point()`).[39m
+"

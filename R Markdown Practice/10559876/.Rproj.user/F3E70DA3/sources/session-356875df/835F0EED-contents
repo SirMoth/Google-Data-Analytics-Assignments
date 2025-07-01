@@ -1,0 +1,29 @@
+---
+title: "ggplot_hook"
+author: "Avery Harrah"
+date: "2025-07-01"
+output: html_document
+---
+
+## Setting up my environment
+Notes: Setting up my R environment by loading the `tidyverse` and `palmerpenguins` packages
+
+```{r loading packages}
+library(tidyverse)
+library(palmerpenguins)
+```
+
+Viewing the data
+
+```{r ggplot for penguin data}
+data(penguins)
+head(penguins)
+```
+
+## Creating visualizations
+Now that the data is loaded and the structure has been checked, I can start generating the data visualizations.
+
+```{r ggplot for penguin data visualization}
+ggplot(data = penguins) +
+  geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, color = species))
+```
